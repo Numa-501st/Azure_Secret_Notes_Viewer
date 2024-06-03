@@ -1,0 +1,4 @@
+flask
+msal
+azure-identity
+azure-keyvault-secrets
