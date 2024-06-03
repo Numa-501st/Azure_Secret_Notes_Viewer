@@ -34,38 +34,38 @@ User
 
 ### 501st key Vault Users
 <div align=center margin= auto> 
-  <img src="images/0keyvaultpermissions.png"  width=80%>
+  <img src="501st_Secret_Notes/images/0keyvaultpermissions.png"  width=80%>
 </div>
 
 ### Login
 <div align=center margin= auto> 
-  <img src="images/1Login.png"  width=80%>
+  <img src="501st_Secret_Notes/images/1Login.png"  width=80%>
 </div>
 
 ### AD/MSAL Authentication
 <div align=center margin= auto> 
-  <img src="images/2ADAuth.png"  width=80%>
+  <img src="501st_Secret_Notes/images/2ADAuth.png"  width=80%>
 </div>
 
 ### Successful Login (John Doe)
 <div align=center margin= auto> 
-  <img src="images/index.png"  width=80%>
+  <img src="501st_Secret_Notes/images/index.png"  width=80%>
 </div>
 
 ### User (John Doe) with access policy and a secret (api key) assigned to them
 <div align=center margin= auto> 
-  <img src="images/4userwithsecret.png"  width=80%>
+  <img src="501st_Secret_Notes/images/4userwithsecret.png"  width=80%>
 </div>
 
 ### Successful Login (Hans Muller)
 <div align=center margin= auto> 
-  <img src="images/5UserwithoutSecret.png"  width=80%>
+  <img src="501st_Secret_Notes/images/5UserwithoutSecret.png"  width=80%>
 </div>
 
 
 ### User (Hans Muller) With No Secrets or Access to Secrets
 <div align=center margin= auto> 
-  <img src="images/6userwithoutsecret.png"  width=80%>
+  <img src="501st_Secret_Notes/images/6userwithoutsecret.png"  width=80%>
 </div>
 
 
