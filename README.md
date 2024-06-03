@@ -32,7 +32,7 @@ User
 ```
 
 
-### 501st key Vault Users
+### 501st Key Vault Users
 <div align=center margin= auto> 
   <img src="501st_Secret_Notes/images/0keyvaultpermissions.png"  width=80%>
 </div>
