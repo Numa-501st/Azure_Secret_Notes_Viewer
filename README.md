@@ -52,7 +52,7 @@ User
   <img src="501st_Secret_Notes/images/3index.png"  width=80%>
 </div>
 
-### User (John Doe) with access policy and a secret (api key) assigned to them
+### User (John Doe) With Access Policy and a Secret (API Key) Assigned to them
 <div align=center margin= auto> 
   <img src="501st_Secret_Notes/images/4userwithsecret.png"  width=80%>
 </div>
